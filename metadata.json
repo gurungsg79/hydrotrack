@@ -1,0 +1,6 @@
+{
+  "name": "HydroTrack",
+  "description": "Daily water intake tracker with local reminders, lock screen progress, home screen widget, interactive charts, and cross-device sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
